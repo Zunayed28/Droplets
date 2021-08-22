@@ -1,5 +1,5 @@
 # Droplets
-## Designing beautiful droplets using only HTML5 and CSS
+## Designing beautiful droplets using only HTML5 and CSS3
 
 HOLA! This is Zunayed. In this repository, I've put all the files required to produce beautiful water droplets on your web.
 To do so, I used only a HTML file and a CSS file. The HTML file holds the property to show the web page as a whole and the most
